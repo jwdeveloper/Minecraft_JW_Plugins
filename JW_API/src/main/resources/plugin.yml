@@ -1,0 +1,4 @@
+name: JW_api
+version: ${project.version}
+main: jw_api.jw_api.Main
+api-version: 1.16

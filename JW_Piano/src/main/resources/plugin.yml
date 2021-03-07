@@ -1,0 +1,9 @@
+name: JW_Piano
+version: ${project.version}
+main: jw_piano.jw_piano.Main
+api-version: 1.16
+depend: [JW_api]
+commands:
+
+
+
